@@ -416,3 +416,12 @@ body {
 color:#444;
 font-weight: bold;
 }
+{
+.service-section div>div
+
+  padding:4px;
+}
+.service-section div>div>div{
+background-color: #DDD;
+padding:5px;
+}
